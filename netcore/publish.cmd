@@ -1,0 +1,1 @@
+dotnet publish --configuration Release --runtime win10-x64 --self-contained
